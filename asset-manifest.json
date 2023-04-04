@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SoftServe_meta_user_represent/static/css/main.c42411ef.css",
+    "main.js": "/SoftServe_meta_user_represent/static/js/main.1f895d67.js",
+    "static/js/787.3c9c1a38.chunk.js": "/SoftServe_meta_user_represent/static/js/787.3c9c1a38.chunk.js",
+    "index.html": "/SoftServe_meta_user_represent/index.html",
+    "main.c42411ef.css.map": "/SoftServe_meta_user_represent/static/css/main.c42411ef.css.map",
+    "main.1f895d67.js.map": "/SoftServe_meta_user_represent/static/js/main.1f895d67.js.map",
+    "787.3c9c1a38.chunk.js.map": "/SoftServe_meta_user_represent/static/js/787.3c9c1a38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c42411ef.css",
+    "static/js/main.1f895d67.js"
+  ]
+}
