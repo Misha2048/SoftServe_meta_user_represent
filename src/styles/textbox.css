@@ -1,0 +1,28 @@
+.textbox {
+    height: 40px;
+    
+    text-transform: uppercase;
+    font-weight: 900;
+    white-space: nowrap;
+
+    padding: 10px;
+}
+
+.textbox--black {
+    background-color: #3b3b3b;
+    color: white;
+}
+
+.textbox--white {
+    background-color: #f4f4f6;
+    color: black
+}
+
+.textbox__container {
+    background-color: #f4f4f6;
+    height: 40px;
+}
+
+.textbox__background {
+    background-color: #f5f5f7;
+}

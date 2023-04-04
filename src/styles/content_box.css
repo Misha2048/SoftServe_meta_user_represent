@@ -1,0 +1,15 @@
+.content-box {
+    width: 400px;
+}
+
+.content-box__title {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 32px;
+
+    margin-bottom: 20px;
+}
+
+.content-box--notitle {
+    margin-top: 56.8px;
+}
